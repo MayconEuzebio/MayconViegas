@@ -16,8 +16,7 @@ CPO & CTO building digital products, AI solutions and data-driven strategies tha
   - Experiments that connect **business strategy + data + engineering**  
   - Open-source tools that make product teams more effective 
 - 📫 How to reach me:  
-  - LinkedIn: [linkedin.com/in/MayconViegas](https://www.linkedin.com/in/MayconViegas)  
-  - Email: euzebio.maycon@gmail.com 
+  - LinkedIn: [linkedin.com/in/MayconViegas](https://www.linkedin.com/in/MayconViegas) 
 
 ---
 
